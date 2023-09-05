@@ -18,6 +18,6 @@ CogniFit est une platform sur le web et une application mobile qui aident à am�
 ### [Detroit: Become Human](https://www.quanticdream.com/en/detroit-become-human)
  Detroit: Become Human est un jeu vidéo dont les choix des personnages principaux dans l'histoire peuvent avoir des grosses impactes sur le narratif. Cette oeuvre multimédia permet de faire réfléchir les joueurs sur les conséquences de leurs choix et leur actions. Ce type multmédia rend l'histoire plus engageant ce qui permet d'envoyer des messages plus percutants au joueur.
 
-### Lien 5 
-Expliquer pourquoi vous avez choisi ce lien. 
+### [Hot Wheels Rift Rally](https://riftrally.com/) 
+C'est un jeu vidéo de type réalité mixe. Le joueur controle une petite voiture équipé avec une caméra et il peut voir son point de vue à travers de son écran de télévision ou de son appareil mobile. Le joueur peut créer sa propre piste de course chez lui et personaliser sa voiture. L'intéraction d'un objet physique pour intéragir avec le monde virtuelle est quelque chose qui me fascine.  
 
