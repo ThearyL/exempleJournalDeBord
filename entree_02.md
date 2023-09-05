@@ -16,7 +16,7 @@ Ce film animé utilise des techniques d'animations 2D et 3D, et des effets visue
 CogniFit est une platform sur le web et une application mobile qui aident à améliorer les fonctions cognitives du cerveau avec des petits jeux d'entrainement. L'utilisation de jeux vidéos pour aider les gens est une approche qui m'intéresse dans le multimédia.
 
 ### [Detroit: Become Human](https://www.quanticdream.com/en/detroit-become-human)
- Detroit: Become Human est un jeu vidéo dont les choix des personnages principaux dans l'histoire peuvent avoir des grosses impactes sur le narratif. Cette oeuvre multimédia permet de faire réfléchir sur les conséquences de leurs choix et leur actions. Ce type multmédia rend l'histoire plus engageant ce qui permet d'envoyer des messages plus percutants au joueur.
+ Detroit: Become Human est un jeu vidéo dont les choix des personnages principaux dans l'histoire peuvent avoir des grosses impactes sur le narratif. Cette oeuvre multimédia permet de faire réfléchir les joueurs sur les conséquences de leurs choix et leur actions. Ce type multmédia rend l'histoire plus engageant ce qui permet d'envoyer des messages plus percutants au joueur.
 
 ### Lien 5 
 Expliquer pourquoi vous avez choisi ce lien. 
