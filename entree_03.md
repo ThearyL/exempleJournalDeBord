@@ -14,7 +14,7 @@ Technicien en expérience interactive et développeur de jeux vidéo.
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
 
 ### Dans 5 ans
-Je me vois dans 5 ans travaillé pour un entreprise qui est en lien du domaine multimédia et qui me convient bien à mes besoins personels. Peut-être mon emplois ne serait pas en lien avec les deux emplois qui m'intéressent que j'ai écris en haut.
+Je me vois dans 5 ans travaillé pour un entreprise qui est en lien du domaine multimédia et qui me convient bien à mes besoins personels. Peut-être mon emploi ne serait pas en lien avec les deux emplois qui m'intéressent que j'ai écris en haut.
 
 ### Projets
 Expliquez un ou des projets que vous aimeriez faire. 
