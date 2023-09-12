@@ -18,5 +18,5 @@ Hiro Mashima est un artiste manga japonais qui a en ce moment trois manga en cir
 ### Dans 5 ans
 Je me vois dans 5 ans travaillé pour un entreprise qui est en lien du domaine multimédia et qui me convient bien à mes besoins personels. Peut-être mon emploi ne serait pas en lien avec les deux emplois qui m'intéressent que j'ai écris en haut.
 
-### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+### Projets 
+J'aimerai créer un petit jeu vidéo et j'aimerai participer dans un concours en lien avec le multimédia
