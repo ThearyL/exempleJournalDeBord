@@ -2,17 +2,17 @@
 ## Rétrospective de l'examen (1 à 2 lignes par question)
 
 ### Points forts de la préparation à l'examen
-Nommer deux points forts de votre préparation à l'examen. 
+Beaucoup des questions étaient des connaissances que je savais déjà. J'ai bien noté mes notes.
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre préparation à l'examen ainsi qu'une piste de solution pour les prochains examens. 
+J'ai dû étudier un peu plus parce qu'il y avait comme 3 questions qui ont pris un peu plus temps pour répondre. Avoir plus de sommeils pour être plus concentré.
 
 ### Gestion du temps
-Comment avez-vous géré votre temps lors de l'examen?
+J'essaie de répondre en 1 minute chaque question
 
 ### Outils et ressources
-Quels outils et ressources avez-vous utilisés pour la préparation à l'examen?
+J'ai utilisé les notes et les powerpoints.
 
 ### Difficultés
-Quelles sont les difficultés que vous avez rencontrées pendant l'examen?
+La question sur le cable SATA et les questions sur le type des formats sur Windows et Mac
 
