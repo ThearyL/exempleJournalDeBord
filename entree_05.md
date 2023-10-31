@@ -8,7 +8,7 @@ Beaucoup des questions étaient des connaissances que je savais déjà. J'ai bie
 J'ai dû étudier un peu plus parce qu'il y avait comme 3 questions qui ont pris un peu plus temps pour répondre. Avoir plus de sommeils pour être plus concentré.
 
 ### Gestion du temps
-J'essaie de répondre en 1 minute chaque question
+J'essaie de répondre en 1 minute à chaque question
 
 ### Outils et ressources
 J'ai utilisé les notes et les powerpoints.
