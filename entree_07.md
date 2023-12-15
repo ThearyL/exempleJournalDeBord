@@ -11,7 +11,7 @@ J'ai bien aimé cette conférence qui essayait à encourager plus de femmes à r
 ### Clarté de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que les idées étaient claires et concise?
 
-Je trouvais que la conférence était bien claire, la personne qui présentait, expliquait bien ses idées.
+Je trouvais la conférence était bien claire, la personne qui présentait, expliquait bien ses idées.
 
 ### Structure de la conférence (Entre 1 et 2 lignes)
 Comment avez-vous trouvé la clarté de la conférence? Est-ce que le développement était logique?
