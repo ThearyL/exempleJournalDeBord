@@ -7,10 +7,10 @@ Un escape room et un escape room virtuel qui doivent interagir ensembles pour r�
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
-![image1](images/image_1.png)
-![image2](images/image_2.png)
-![image3](images/image_3.png)
-![image4](images/image_4.png)
+![image1](images/image_1.PNG)
+![image2](images/image_2.PNG)
+![image3](images/image_3.PNG)
+![image4](images/image_4.PNG)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
