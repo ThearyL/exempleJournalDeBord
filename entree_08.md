@@ -7,13 +7,18 @@ Un escape room et un escape room virtuel qui doivent interagir ensembles pour r�
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
-![image1](images/image_1.pgn)
+![image1](images/image_1.png)
+![image2](images/image_2.png)
+![image3](images/image_3.png)
+![image4](images/image_4.png)
 
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
+
 J'ai utilisé PowerPoint, Miro, Trello et photoshop pour ce projet.
 
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+
 Faire une recherche sur un nouveau produit dans marché particulier et le besoin d'un client particulier. Trouver une bonne entreprise dans le marché. Faire un brainstorm des idées novateurs. Montrer les aspects visuels et sonores du produit novateur. Faire un scénarimage de l'expérience. Trouver les tâches principales pour réaliser le produit inovateur. Démontrer pourquoi c'est un produit inovateur. Croquis de la présentation numérique.
 
